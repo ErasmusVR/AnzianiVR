@@ -1,7 +1,7 @@
 /* Emanuele Negrino - Erasmus+ - IIS Natta Demabrosis */
 /* Arduino CODE VR lderly people without OLED screen */
 #include <MPU6050_tockn.h>  //|
-#include <Servo.h>e         //|
+#include <Servo.h>          //|
 #include <Wire.h>           //| Libraries
 
 #define Serv_pin1 3         //|
